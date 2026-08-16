@@ -13,3 +13,11 @@ PC0 ───┐
 PC1 ───┼── Switch
        │
 PC2 ───┘
+
+## Topology
+
+PC0 ───┐
+       │
+PC1 ───┼── Switch
+       │
+PC2 ───┘
