@@ -8,9 +8,10 @@ The network consists of three PCs connected to a Layer 2 switch.
 
 ## Topology
 
-`text
+'''text
 PC0 ───┐
        │
 PC1 ───┼── Switch
        │
 PC2 ───┘
+'''
